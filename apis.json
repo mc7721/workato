@@ -1,0 +1,50 @@
+{
+    "name": "Workato",
+    "description": "<p>Workato helps anyone create powerful, business critical integrations between cloud apps in minutes. No IT. No developers required. At Workato we are passionate about creating an enterprise grade, rich and secure service to integrate your apps but with the soul of some of the most beloved consumer services by being simple, fun, self-service, community based and inexpensive. Business users, yes, those of you that sign up for or use cloud based applications can now also connect them together using Workato.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/workato-logo.png",
+    "tags": [
+        "aggregation",
+        "have api",
+        "integrations",
+        "ipaas"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/workato\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Workato",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/workato-logo.png",
+            "humanURL": "https:\/\/www.workato.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/workato-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.workato.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@workato.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/workato"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.workato.com\/"
+        }
+    ]
+}
